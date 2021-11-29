@@ -1,9 +1,7 @@
 {
   "dependencies": {
     "jquery": "^3.6.0",
-    "paper": "^0.12.15"
-  },
-  "devDependencies": {
-    "eslint": "^8.3.0"
+    "paper": "^0.12.15",
+    "tsd": "^0.19.0"
   }
 }
