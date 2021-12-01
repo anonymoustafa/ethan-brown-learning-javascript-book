@@ -1,7 +1,27 @@
 {
   "dependencies": {
-    "jquery": "^3.6.0",
     "paper": "^0.12.15",
-    "tsd": "^0.19.0"
+    "underscore": "^1.13.1"
+  },
+  "name": "ethan-brown-learning-javascript-book",
+  "description": "= Learning JavaScript, 3rd Edition == Chapter 2: JavaScript Development Tools In this chapter we're learning about Git and other development tools.",
+  "version": "0.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anonymoustafa/ethan-brown-learning-javascript-book.git"
+  },
+  "author": "anonymoustafa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anonymoustafa/ethan-brown-learning-javascript-book/issues"
+  },
+  "homepage": "https://github.com/anonymoustafa/ethan-brown-learning-javascript-book#readme",
+  "devDependencies": {
+    "eslint": "^8.3.0",
+    "gulp": "^4.0.2"
   }
 }
