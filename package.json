@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/anonymoustafa/ethan-brown-learning-javascript-book#readme",
   "devDependencies": {
+    "babel-preset-es2015": "^6.24.1",
     "eslint": "^8.3.0",
     "gulp": "^4.0.2"
   }
